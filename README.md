@@ -13,4 +13,4 @@
 This code is based on 
 https://iotdesignpro.com/projects/nodemcu-esp8266-gps-module-interfacing-to-display-latitude-and-longitude
 
-Refer to there for details.  Deference is wiring and ESP32S hardware serial port connected to GPS6MV2 insted of ESP32S software serial port.
+Refer to there for details.  Deference is wiring and ESP32S hardware serial port insted of software serial port connected to GPS module GPS6MV2.
